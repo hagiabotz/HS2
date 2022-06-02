@@ -1,0 +1,15 @@
+{
+  "ownerNumber": "6281380844720@s.whatsapp.net",
+  "botName": "HagiaBOTZ",
+  "ownerName": "Aldiar || Owner HS",
+  "footer": "*2022 © HAGIABOTZ*",
+  "apikey": "hagiabotz",
+  "pathThumb": "./media/logo.jpg",
+  "sessionName": "HagiaShop",
+  "limitCount": 30,
+  "gamewaktu": 60,
+  "gcount": {
+    "prem": 50,
+    "user": 20
+  }
+}
